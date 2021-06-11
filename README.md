@@ -3,7 +3,6 @@
 ### Hello, I'm Emerson! 👋
 
 💻 Software Engineer at [VTEX](https://github.com/vtex/) <br>
-🏖️ From Maceió and living in Rio de Janeiro
 
 ### Find me around the web 🌎
 
