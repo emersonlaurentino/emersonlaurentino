@@ -6,7 +6,7 @@
 
 ### Find me around the web 🌎
 
-🐦 [Twitter](https://twitter.com/1aur3nt) <br>
+🐦 [Twitter](https://twitter.com/el4urent) <br>
 💼 [Linkedin](https://www.linkedin.com/in/emersonlaurentino/) <br>
 
 </samp>
