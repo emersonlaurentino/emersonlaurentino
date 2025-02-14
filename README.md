@@ -33,10 +33,10 @@ Finally, I developed a **custom admin dashboard** that allowed non-technical use
 - **Tools:** Bun, Lighthouse, Turbo  
 
 ## 🔗 Projects & Open Source  
-- [📌 FastStore](https://github.com/vtex/faststore) – VTEX's framework for building fast and scalable e-commerce storefronts  
-- [📌 CodeReview.sh](https://codereview.sh/) – A platform for peer code review  
-- [📌 WebOps](https://developers.vtex.com/docs/guides/faststore/1-onboarding-dashboard) – Platform to deploy and hosting FastStore store
-- [📌 Personal Website](https://laurentino.co/) – Portfolio showcasing personal projects and work  
+- 📌 [FastStore](https://github.com/vtex/faststore) – VTEX's framework for building fast and scalable e-commerce storefronts  
+- 📌 [CodeReview.sh](https://codereview.sh/) – A platform for peer code review  
+- 📌 [WebOps](https://developers.vtex.com/docs/guides/faststore/1-onboarding-dashboard) – Platform to deploy and hosting FastStore store
+- 📌 [Personal Website](https://laurentino.co/) – Portfolio showcasing personal projects and work  
 
 ## 🌍 Languages  
 - Portuguese: Native  
