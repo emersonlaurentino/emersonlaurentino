@@ -40,4 +40,4 @@ Finally, I developed a **custom admin dashboard** that allowed non-technical use
 
 ## 🌍 Languages  
 - Portuguese: Native  
-- English: Advanced
+- English: Professional
